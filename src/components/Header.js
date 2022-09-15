@@ -51,7 +51,7 @@ const Header = () => {
                                     <a class="header__menu--link" href="/about">A propos </a>
                                 </li>
                                 <li class="header__menu--items">
-                                    <a class="header__menu--link" href="/blog">Blog </a>
+                                    <a class="header__menu--link" href="/blogs">Blog </a>
                                 </li>
                                 <li class="header__menu--items">
                                     <a class="header__menu--link" href="/plat">Plat </a>
